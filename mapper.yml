@@ -1,0 +1,18 @@
+name: smCCP
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - python
+  - cython
+  - pandas
+  - matplotlib
+  - scipy
+  - pybedtools
+  - requests
+
+  # - pip
+  #   - git+git://github.com/psirving/StructureAnalysisTools@python3
+  #   - git+git://github.com/Weeks-UNC/RingMapper@python3
+  #   - git+git://github.com/MustoeLab/DanceMapper@python3
