@@ -1,5 +1,12 @@
-Modernize smCCP tool installation
-=================================
+smCCP tools
+===========
+
+The goal is migrate StructureAnalysisTools, RingMapper, and DanceMapper to python 3 and
+to enable installation via pip. This repo is a just a convenient devcontainer for this
+purpose.
+
+Notes
+-----
 
 This folder contains a devcontainer which installs Python3 compatible versions of:
 
